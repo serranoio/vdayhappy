@@ -4,7 +4,7 @@ let yesChosen = false;
 let noChosen = false; 
 let noButton: HTMLButtonElement;
 
-const names = ["Kitten", "Sweetheart", "Cupcake","Honeybee","Sweetie Pie","Buttercup","Snugglebug","Sugarplum","Pumpkin","Lovebug","Cutie Pie","Marshmallow","Pudding","Angel Face","Peachy","Jellybean","Cuddle Bunny","Darling","Cherry Blossom","Sunshine","Bumblebee","Precious","Sweetheart","Daisy","Little Dove","Lollipop","Sprinkles","Petal","Cinnamon","Sweet Pea","Cookie","Bluebell","Gumdrop","Cherry","Angel Cake","Sweets","Cupid","Marshmallow","Tootsie","Lovebird","Twinkle","Pixie","Honeydew","Sweetums","Candy","Fluffy","Sparkle","Lovey","Starlight"];
+const names = ["Kitten", "Sweetheart", "Cupcake","Honeybee","Sweetie Pie","Buttercup","Snugglebug","Sugarplum","Pumpkin","Lovebug","Cutie Pie","Marshmallow","Pudding","Angel Face","Peachy","Jellybean","Cuddle Bunny","Darling","Cherry Blossom","Sunshine","Bumblebee","Precious","Sweetheart","Daisy","Little Dove","Lollipop","Sprinkles","Petal","Cinnamon","Sweet Pea","Cookie","Gumdrop","Cherry","Angel Cake","Sweets","Cupid","Marshmallow","Tootsie","Lovebird","Twinkle","Pixie","Honeydew","Sweetums","Candy","Fluffy","Sparkle","Lovey","Starlight"];
 
 const submitForm = (e) => {
 e.preventDefault();
