@@ -57,7 +57,7 @@ console.log(Math.random() * names.length -1)
 </div>
  {:else} 
  <div class="number">
-   <p>Come get tea or coffee with lunch on Sunday with me, {chosenName}</p>
+   <p>Come get tea or coffee and lunch with me on Sunday, {chosenName}</p>
    <p>:)</p>
   </div>
 {/if}
