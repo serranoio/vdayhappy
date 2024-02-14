@@ -44,7 +44,7 @@ console.log(Math.random() * names.length -1)
       <form on:submit={submitForm}>
 
 
-        <h1>Will u be my valentine?</h1>
+        <h1>Will u be my valentine Katya?</h1>
     
         <div class="img-box">
 
